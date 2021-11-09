@@ -1,11 +1,11 @@
 # hello-world
-  import pandas as pd
-  import matplotlib.pyplot as plt
-  import numpy as np
-  import pylab
-  def cm_to_inch(value):
-    return value/2.54
-    df = pd.read_excel('Налоги компании VW.xlsx')
+   import pandas as pd
+   import matplotlib.pyplot as plt
+   import numpy as np
+   import pylab
+   def cm_to_inch(value):
+     return value/2.54
+     df = pd.read_excel('Налоги компании VW.xlsx')
 
 i = 0
 a = list()
